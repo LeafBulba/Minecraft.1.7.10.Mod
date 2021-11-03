@@ -1,1 +1,1 @@
-# Minecraft.17.10.Mod
+# Minecraft.1.7.10.Mod
